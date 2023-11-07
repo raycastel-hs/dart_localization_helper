@@ -1,7 +1,8 @@
 import 'dart:io';
-// for step 3:
 import 'dart:async';
 import 'dart:convert';
+
+// ? dart run localization.dart
 
 const String directory = 'lang';
 
