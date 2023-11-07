@@ -32,3 +32,6 @@ three    three  三  tres
 - Old files will be replaced after running the command.
 - The output files will be in `json` format.
 - JSON files are not "pretty-formatted".
+
+## Noteworthy alternatives
+- Flutter Translation Sheet - https://pub.dev/packages/flutter_translation_sheet
